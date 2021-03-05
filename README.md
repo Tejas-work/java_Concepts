@@ -1,2 +1,4 @@
 # java_Concepts
-Basic Java Concepts  
+
+Learning Java Concepts.  
+Array, String operations, Methods etc   
