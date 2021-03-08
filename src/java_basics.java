@@ -13,7 +13,5 @@ public class java_basics {
 		System.out.println("Trim string = " + s.trim());
 		System.out.println("Replace all remove space = " + s.replaceAll("\\s", ""));
 		System.out.println("Upper case and remove all spaces = " + s.toUpperCase().trim().replaceAll("\\s", ""));
-
 	}
-
 }
